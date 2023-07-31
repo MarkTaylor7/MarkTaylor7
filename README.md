@@ -12,8 +12,6 @@
 - :family: Proud father of two: one human and one pug.
 
 ## What I Know
-- :hash: HTML, CSS, & JavaScript
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTaylor7)](https://github.com/MarkTaylor7/github-readme-stats)
 
 ## Where You Can Find Me
