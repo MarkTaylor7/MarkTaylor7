@@ -15,4 +15,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTaylor7)](https://github.com/MarkTaylor7/github-readme-stats)
 
 ## Where You Can Find Me
-- :link: linkedin.com/in/marktaylor27/
+- :link: [LinkedIn](https://www.linkedin.com/in/marktaylor27/)
+
