@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark Taylor</h1>
+<h1 align="center">Hi 👋, I'm Mark</h1>
 
 ## Why I'm Here
 - 💻 I am a software developer who has been a student at Get Coding since April, 2023. I am passionate about learning new things, building cool projects, and am eager to transition into the tech industry!
