@@ -2,7 +2,7 @@
 
 ## Why I'm Here
 - 💻 I am a software developer who has been a student at Get Coding since April, 2023. I am passionate about learning new things, building cool projects, and am eager to transition into the tech industry!
-- :beach_umbrella: Currently finishing my first project; a puzzle game called "Kaboom Beach". Play it [here](https://marktaylor7.github.io/KaboomBeach/), and tell me what you think!
+- :beach_umbrella: I have completed my first project; a puzzle game called "Kaboom Beach". Play it [here](https://marktaylor7.github.io/KaboomBeach/), and tell me what you think!
 - 👩‍💻 I'm learning HTML, CSS, and JavaScript, and immersing myself into the world of front-end development with React.
 
 ## Who I Am
