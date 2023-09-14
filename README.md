@@ -12,6 +12,27 @@
 - :family: Proud father of two: one human and one pug.
 
 ## What I Know
+<table>
+ <thead>
+  <tr>
+   <th colspan=5 align="center">Languages || Frameworks || Tools</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/html5-original.svg" alt="HTML5" height="40" width="40" /></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/css3-original.svg" alt="CSS3" height="40" width="40" /></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/javascript-original.svg" alt="JavaScript" height="40" width="40" /></a></td>
+   <td><a href="https://reactjs.org" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/react-original.svg" alt="React" height="40" width="40" /></a></td>
+   <td><a href="https://git-scm.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/git-original.svg" alt="Git" height="40" width="40" /></a></td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/GitHubLogo.png" alt="Github" height="40" width="40" /></a></td>
+   <td><a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/vscode-original.svg" alt="Visual Studio Code" height="40" width="40" /></a></td>
+   <td><a href="https://www.postman.com/" target="blank"><img align="center" src="https://github.com/millerm30/millerm30/blob/main/images/postman.png" alt="Postman" height="40" width="40" /></a></td> 
+  </tr>
+ </tbody>
+</table>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTaylor7)](https://github.com/MarkTaylor7/github-readme-stats)
 
 ## Where You Can Find Me
