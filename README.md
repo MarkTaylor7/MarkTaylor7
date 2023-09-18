@@ -12,13 +12,7 @@
 - :family: Proud father of two: one human and one pug.
 
 ## What I Know
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Git
-- Visual Studio Code
-- Postman
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTaylor7)](https://github.com/MarkTaylor7/github-readme-stats)
 
 ## Where You Can Find Me
 - :link: [LinkedIn](https://www.linkedin.com/in/marktaylor27/)
