@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 
 ## Why I'm Here
-- 👩‍💻 I am a software developer who has been a student at Get Coding since April, 2023. I am passionate about learning new things, building cool projects, and am eager to transition into the tech industry!
-- :beach_umbrella: I have completed my first project; a puzzle game called "Kaboom Beach". This was built with HTML, CSS, and JavaScript. Play it [here](https://marktaylor7.github.io/KaboomBeach/), and tell me what you think!
+- 👩‍💻 I am a software developer who has been a student at Get Coding since April, 2023. I am passionate about learning new things, building challenging projects, and I am eager to transition into the tech industry!
+- :beach_umbrella: I have completed my first project; a puzzle game called "Kaboom Beach". This was built with HTML, CSS, and JavaScript. [You can play Kaboom Beach here](https://marktaylor7.github.io/KaboomBeach/), and tell me what you think!
 - 🏁 I am currently using React to build a Formula One forecasting app called "The Final Lap".
 
 ## Who I Am
