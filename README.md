@@ -17,5 +17,5 @@
 
 ## Where You Can Find Me
 - :link: [LinkedIn](https://www.linkedin.com/in/marktaylor27/)
-- mtaylor_001@hotmail.com
+- ✉️ mtaylor_001@hotmail.com
 
