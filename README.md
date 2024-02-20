@@ -19,7 +19,7 @@ A Formula 1 data tool that provides historical and in-season results relevant to
 Data analysis of driver/team performance and circuit characteristics enable fans to make informed choices when placing a bet or building a fantasy team.
 I will be using what I learn in Get Coding's back-end module to develop additional features for this project.<br/>
 
-- [Kaboom Beach](marktaylor7.github.io/KaboomBeach/)<br/>
+- [Kaboom Beach](https://marktaylor7.github.io/KaboomBeach/)<br/>
 A puzzle game that combines elements of Battleship and Minesweeper.
 Features randomly generated layouts, two game modes, difficulty settings, sound effects, animations.
 
