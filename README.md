@@ -26,7 +26,6 @@ A puzzle game that combines elements of Battleship and Minesweeper.
 Features randomly generated layouts, two game modes, difficulty settings, sound effects, animations.<br/>
 ![Screenshot of project desktop site](screenshots/mobileWelcomeScreenshot.png)
 ![Screenshot of project desktop site](screenshots/mobileScreenshot.png)
-![Screenshot of project desktop site](screenshots/mobileScreenshot2.png)
 
 - Chris’ Cabinets<br/>
 *Under development*<br/>
