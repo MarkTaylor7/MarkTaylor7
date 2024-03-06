@@ -36,5 +36,5 @@ A landing page that I’m building for a local cabinet-maker. Planned features i
 
 ## Where You Can Find Me
 - :link: [LinkedIn](https://www.linkedin.com/in/marktaylor27/)
-- ✉️ mtaylor_001@hotmail.com
+- ✉️ mtaylor.091@gmail.com
 
