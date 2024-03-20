@@ -10,7 +10,7 @@
 ## Who I Am
 - 🚘 My most recent career was in automotive, where I held positions at BMW St. John's as Sales Consultant, Product Specialist, and Assistant Service Manager.
 - :books: Bachelor of Arts (Psychology) - Memorial University of Newfoundland, 2016
-- :tennis: My interests and hobbies include: running, hiking, tennis, video games, film/TV, reading, hockey, Formula One...and coding!
+- :tennis: My interests and hobbies include: long distance running, hiking, tennis, video games, film/TV, reading, hockey, Formula One...and coding!
 - :family: Proud father of two: one human and one pug.
 
 ## Projects (What I've built)
