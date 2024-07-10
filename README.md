@@ -7,8 +7,8 @@
 - 🌐 I am currently learning back-end development and databases (Node.js, Express and MySQL).
 
 ## Who I Am
-- 🚘 I have held a variety of positions at BMW St. John's, including Sales Consultant, Product Genius, Assistant Service Manager, and Sales Operations Coordinator
-- :books: Bachelor of Arts (Psychology/Sociology) - Memorial University of Newfoundland, 2016
+- 🚘 I have held a variety of positions at BMW St. John's, including Sales Consultant, Product Genius, Assistant Service Manager, and Sales Operations Coordinator.
+- :books: Bachelor of Arts (Psychology/Sociology) - Memorial University of Newfoundland, 2016.
 - :tennis: My interests and hobbies include: long distance running, hiking, tennis, video games, film/TV, reading, hockey, Formula One...and coding!
 - :family: Proud father of two: one human and one pug.
 
